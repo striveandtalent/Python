@@ -1,7 +1,6 @@
 name = 'itheima is a brand of itcast'
 count = 0
 for x in name:
-    # ==:判断内
     if x == "a":
         count += 1
 
