@@ -1,5 +1,5 @@
 """
-语法1:range(num)
+语法1:range(score)
     获取一个从0开始，到num结束的数字序列，左闭右开(不含num本身)
 语法2：range(num1,num2)
     获得一个从num1开始，到num2结束的数字序列(左闭右开)

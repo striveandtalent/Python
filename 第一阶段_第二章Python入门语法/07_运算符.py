@@ -29,4 +29,4 @@ print("====================================")
 # ==：判断内容是否相等，满足为True，反之为False，如a=3,b=3,则(a==b)为True
 num = 1
 num %= 2
-print("1%=2 =", num)  # num %= 2  -->  num = num % 2
+print("1%=2 =", num)  # score %= 2  -->  score = score % 2

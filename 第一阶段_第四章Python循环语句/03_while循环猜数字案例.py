@@ -4,15 +4,15 @@
 
 import random
 
-# num = random.randint(1, 100)
+# score = random.randint(1, 100)
 # # Todo:random的知识点：random(a,b)-->生成一个[a,b]之间的整数
 # user = int(input("请输入你猜的数字"))
 # count = 1
-# if (user == num):
+# if (user == score):
 #     print("恭喜你，猜对了！")
 # else:
-#     while user != num:
-#         if (user > num):
+#     while user != score:
+#         if (user > score):
 #             print("你猜的数字过大")
 #             count += 1
 #             user = int(input("请再猜："))

@@ -11,6 +11,6 @@ print("===============================================")
 # 字符串拼接只能拼接字符串类型变量，数字类型和其他类型要报错
 name2 = "张三"
 tel = str(123456789)
-print("My name is: " + name2 + ",My phone num is:" + tel)
+print("My name is: " + name2 + ",My phone score is:" + tel)
 
 
